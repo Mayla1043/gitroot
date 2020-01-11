@@ -3,8 +3,11 @@
 
 ## 2. Markdown test.
 
--- first item
--- second item
+- first item
+- second item
 
-**粗体 **
+**粗体**
+
 _斜体？_
+
+> 引用
